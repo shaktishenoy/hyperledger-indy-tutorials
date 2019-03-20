@@ -14,4 +14,4 @@ A multi-way relatonship (>2 entities involved) is represented by A:ABCD (where t
 
 __Agents__ are represented with numbers. That the agents and entities belong to a __sovereign domain__ or in general a 
 particular context is represented using the @ symbol. So, 1@A is used to represent Alice's agent (1, which is, let's say, Alice's 
-__Identity Wallet__) in Alice's sovereign domain. https://docs.google.com/document/d/1giOzpTFXypJ6bAUp_6g93kYOEiNa5eWI1KeIg6wb598
+__Identity Wallet__) in Alice's sovereign domain.
